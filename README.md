@@ -1,4 +1,4 @@
-# Speeling-Checker-and-Corrector
+# Spelling-Checker-and-Corrector
 What is a Spell Corrector?
 
 Writing should always have no spelling errors to let the reader get the correct understanding. But being humans, it is common for all of us to make some errors. And that’s the reason the spell correctors are developed. These check the spelling of words and suggest the correct word if wrong. We will be building a prototype of a spelling corrector using Python.
